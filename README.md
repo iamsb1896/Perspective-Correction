@@ -41,4 +41,3 @@ Input Image:
 Result:
 
 ![GitHub Logo](/result2.jpg)
-
