@@ -32,6 +32,13 @@ Input Image:
 
 Result:
 
-
 ![GitHub Logo](/result.jpg)
+
+Input Image:
+
+![GitHub Logo](/IMG_20190726_112717.jpg)
+
+Result:
+
+![GitHub Logo](/result2.jpg)
 
