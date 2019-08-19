@@ -28,8 +28,7 @@ python Demo.py
 ## Result
 Input Image:
 
-
-![GitHub Logo](/IMG_20190726_112717.jpg)
+![GitHub Logo](/IMG_20190726_112742.jpg)
 
 Result:
 
